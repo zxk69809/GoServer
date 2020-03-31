@@ -1,0 +1,191 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="3dc0f16a-8aa1-4722-9f95-722417c3107b" name="默认更改列表" comment="增加业务控制分发处理模块">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/go.mod" beforeDir="false" afterPath="$PROJECT_DIR$/go.mod" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/go.sum" beforeDir="false" afterPath="$PROJECT_DIR$/go.sum" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/app/api/TcpConn.go" beforeDir="false" afterPath="$PROJECT_DIR$/src/app/api/TcpConn.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/app/api/TcpServer.go" beforeDir="false" afterPath="$PROJECT_DIR$/src/app/api/TcpServer.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/app/model/user.go" beforeDir="false" afterPath="$PROJECT_DIR$/src/app/model/user.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/app/service/BllHeartbeat.go" beforeDir="false" afterPath="$PROJECT_DIR$/src/app/service/BllHeartbeat.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/app/service/BllUpParam.go" beforeDir="false" afterPath="$PROJECT_DIR$/src/app/service/BllUpParam.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/app/service/BllUpStatus.go" beforeDir="false" afterPath="$PROJECT_DIR$/src/app/service/BllUpStatus.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/app/service/SrvControl.go" beforeDir="false" afterPath="$PROJECT_DIR$/src/app/service/SrvControl.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/boot/boot.go" beforeDir="false" afterPath="$PROJECT_DIR$/src/boot/boot.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/library/protocol/ProtocolV1.go" beforeDir="false" afterPath="$PROJECT_DIR$/src/library/protocol/ProtocolV1.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/library/task/TaskFunc.go" beforeDir="false" afterPath="$PROJECT_DIR$/src/library/task/TaskFunc.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main.go" beforeDir="false" afterPath="$PROJECT_DIR$/src/main.go" afterDir="false" />
+    </list>
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Go File" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>LastInsertId</find>
+      <find>ascii</find>
+      <find>SendPkg</find>
+    </findStrings>
+  </component>
+  <component name="GOROOT" path="D:\Go" />
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GoLibraries">
+    <option name="indexEntireGoPath" value="false" />
+    <option name="useGoPathFromSystemEnvironment" value="false" />
+  </component>
+  <component name="JsFlowSettings">
+    <service-enabled>true</service-enabled>
+    <exe-path />
+    <other-services-enabled>true</other-services-enabled>
+    <auto-save>true</auto-save>
+  </component>
+  <component name="ProjectId" id="1SaJfcPyJDbG6As0VwHC1CiLPjZ" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="添加" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DefaultGoTemplateProperty" value="Go File" />
+    <property name="GO_FMT" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="configurable.Global.GOPATH.is.expanded" value="true" />
+    <property name="configurable.Module.GOPATH.is.expanded" value="true" />
+    <property name="configurable.Project.GOPATH.is.expanded" value="true" />
+    <property name="go.gopath.indexing.explicitly.defined" value="true" />
+    <property name="go.import.settings.migrated" value="true" />
+    <property name="go.sdk.automatically.set" value="true" />
+    <property name="go.vendoring.notification.had.been.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="restartRequiresConfirmation" value="false" />
+    <property name="settings.editor.selected.configurable" value="go.vgo" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="E:\working\2019年\高性能服务器\GoServer\src\app\service" />
+      <recent name="E:\working\2019年\高性能服务器\GoServer\src\library\protocol" />
+      <recent name="E:\working\2019年\高性能服务器\GoServer\src\app\api" />
+      <recent name="E:\working\2019年\高性能服务器\goserver\src" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="E:\working\2019年\高性能服务器\GoServer\src\boot" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager">
+    <configuration name="GoServer" type="GoApplicationRunConfiguration" factoryName="Go Application">
+      <module name="goserver" />
+      <working_directory value="$PROJECT_DIR$/" />
+      <go_parameters value="-i" />
+      <kind value="DIRECTORY" />
+      <filePath value="$PROJECT_DIR$/" />
+      <directory value="$PROJECT_DIR$/src" />
+      <output_directory value="$PROJECT_DIR$/bin" />
+      <method v="2" />
+    </configuration>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="COLUMN_ORDER" />
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="RECENT_FILTERS">
+      <map>
+        <entry key="Branch">
+          <value>
+            <list />
+          </value>
+        </entry>
+        <entry key="User">
+          <value>
+            <list />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <ignored-roots>
+      <path value="$PROJECT_DIR$" />
+    </ignored-roots>
+    <MESSAGE value="修改协议包格式和位置" />
+    <MESSAGE value="增加业务控制分发处理模块" />
+    <option name="LAST_COMMIT_MESSAGE" value="增加业务控制分发处理模块" />
+  </component>
+  <component name="VgoProject">
+    <integration-enabled>true</integration-enabled>
+    <proxy>https://goproxy.cn,direct</proxy>
+  </component>
+  <component name="XDebuggerManager">
+    <watches-manager>
+      <configuration name="GoApplicationRunConfiguration">
+        <watch expression="queue" />
+        <watch expression="connMapping" language="go" />
+      </configuration>
+    </watches-manager>
+  </component>
+  <component name="debuggerHistoryManager">
+    <expressions id="watch">
+      <expression>
+        <expression-string>connMapping</expression-string>
+        <language-id>go</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>conn.RemoteAddr().String()</expression-string>
+        <language-id>go</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+    </expressions>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ScopeChooserConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>

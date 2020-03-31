@@ -1,0 +1,15 @@
+# 应用系统设置
+[setting]
+    logpath = "./log/"
+[server]
+   address = "172.215.0.58:8899"
+   protover = 1
+# 数据库连接
+[database]
+    [[database.default]]
+        host = "127.0.0.1"
+        port = "3306"
+        user = "root"
+        pass = "123456"
+        name = "godb"
+        type = "mysql"
